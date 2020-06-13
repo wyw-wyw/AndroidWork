@@ -35,7 +35,7 @@ public class TwoActivity extends AppCompatActivity {
         infohomepage = (TextView) findViewById(R.id.homepage);
         infonote = (TextView) findViewById(R.id.note);
         btn3=(Button) findViewById(R.id.btn3);
-        btn4=(Button) findViewById(R.id.btn4);
+        //btn4=(Button) findViewById(R.id.btn4);
         //获取意图
         Intent intent = getIntent();
 

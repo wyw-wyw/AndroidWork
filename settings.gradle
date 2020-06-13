@@ -1,2 +1,6 @@
 include ':app'
 rootProject.name='sy6'
+
+rootProject.name='AndroidWork'
+include ':app'
+

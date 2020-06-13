@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">公司信息</string>
     <string name="usernamr">公司名称</string>
     <string name="sex">法人代表</string>
@@ -9,5 +10,6 @@
     <string name="note">公司简介</string>
     <string name="ensure">确定</string>
     <string name="cancelled">取消</string>
+
 
 </resources>
